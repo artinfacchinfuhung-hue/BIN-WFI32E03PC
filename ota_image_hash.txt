@@ -1,3 +1,3 @@
-SHA256: a7c3066e591baeffc11a8e77cb183dfd61fe7bea4e6ea9079bf402abe04f8bcb
-CRC32:  0x3BEDBB32
-FW Version : 0.0.0  hw_rev=0  date=1776666707
+SHA256: f7c16fa9b2a283637d93c2380dbc90b4b9086be2814b03ffc535d7d8fd405b81
+CRC32:  0xEB3163C5
+FW Version : 0.0.0  hw_rev=0  date=1776671029
